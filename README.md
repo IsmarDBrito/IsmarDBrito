@@ -24,30 +24,27 @@ Meu foco é garantir a entrega de produtos de alta qualidade por meio de:
 
 ## Portfólio de Projetos de QA
 
-🤖 Bulletproof AI Sales
+Bulletproof AI Sales
+-
 Framework de Auditoria para Bots de IA.
-
 Implementação de guardrails e testes de integridade comercial para LLMs.
-
 Uso de Playwright para automação E2E e Docker para isolamento de ambiente (Sandboxing).
 
-🏢 Framework de Testes Integrados - Urban Scooter
+Framework de Testes Integrados - Urban Scooter
+-
 Estratégia de QA 360º (Web, Mobile & API).
-
 Validação de contratos de API REST e integridade de dados.
-
 Gestão completa do ciclo de vida de defeitos com Jira e técnicas de Classes de Equivalência.
 
-🐍 QA-Auto Python - Urban Routes
+QA-Auto Python - Urban Routes
+-
 Automação Industrializada com Python.
-
 Arquitetura de testes modular com pytest e Selenium WebDriver.
-
 Captura dinâmica de dados via Logs de Performance do navegador.
 
-📊 Análise de Dados & Validação SQL
+Análise de Dados & Validação SQL
+-
 Diagnóstico de Produção e Integridade de Dados.
-
 Uso de SQL complexo para validar >5.500 registros e análise de logs em ambiente Linux.
 
 ---
