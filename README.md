@@ -24,16 +24,14 @@ Meu foco é garantir a entrega de produtos de alta qualidade por meio de:
 
 ## Portfólio de Projetos de QA
 
-* **1. Teste de Lógica e Segurança (Design de Casos):**
-    * Foco em validação de formulários (segurança de input) e lógica de negócio.
-    * **🔗 Repositório:** [qa-design-casos-teste-funcional](https://github.com/IsmarDBrito/qa-design-casos-teste-funcional)
-* **2. Testes de API (Postman):**
-    * Desenvolvimento de coleções e scripts JavaScript para validar endpoints de Back-end.
-    * **🔗 Repositório:** [qa-proj-testes-api-postman](https://github.com/IsmarDBrito/qa-proj-testes-api-postman)
-* **3. Validação SQL e Diagnóstico:**
-    * Uso de SQL complexo para garantir a integridade de dados (mais de 5.500 registros) e análise de logs de servidor.
-    * **🔗 Repositório:** [qa-proj-validacao-sql-dados](https://github.com/IsmarDBrito/qa-proj-validacao-sql-dados)
-
+| [qa-design-casos-teste-funcional](https://github.com/IsmarDBrito/qa-design-casos-teste-funcional) | Teste de lógica e segurança: validação de formulários (segurança de input) e lógica de negócio. |
+| [qa-proj-testes-api-postman](https://github.com/IsmarDBrito/qa-proj-testes-api-postman) | Testes de API: coleções e scripts JavaScript para validar endpoints de back-end. |
+| [qa-proj-validacao-sql-dados](https://github.com/IsmarDBrito/qa-proj-validacao-sql-dados) | Validação SQL e diagnóstico: SQL complexo para integridade de dados (+5.500 registros) e análise de logs. |
+| [Bulletproof_AI_Sales](https://github.com/IsmarDBrito/Bulletproof_AI_Sales) | QA para bots de vendas (LLM): integridade comercial, guardrails, veracidade; Playwright (E2E) + Jest. |
+| [Framework-de-Testes-Integrados](https://github.com/IsmarDBrito/Framework-de-Testes-Integrados) | **Este repositório** — Urban Scooter: testes integrados Web, Mobile e API com rastreabilidade no Jira. |
+| [QA-Auto_Python](https://github.com/IsmarDBrito/QA-Auto_Python) | Automação Urban Routes: Python, Selenium WebDriver e pytest para fluxos de transporte urbano. |
+| [python-selenium-automation](https://github.com/IsmarDBrito/python-selenium-automation) | Automação web com Python e Selenium. |
+| [macro-automation-complex-flows](https://github.com/IsmarDBrito/macro-automation-complex-flows) | RPA & QA: automação com Macro Recorder, self-healing, orquestração e tratamento de edge cases (ex.: Pixels). |
 ---
 
 ## Conecte-se
