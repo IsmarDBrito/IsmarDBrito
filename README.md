@@ -28,7 +28,8 @@ Framework de Testes Integrados (Urban Scooter): Prova que você domina o ciclo c
 
 Bulletproof AI Sales: Prova que você está na vanguarda (IA, Docker, Playwright). É o seu projeto de maior valor financeiro.
 
-QA-Auto Python (Urban Routes): Prova a sua versatilidade técnica em Python, que é uma exigência muito forte em vagas de SDET (como a do Eldorado).
+QA-Auto Python (Urban Routes): Prova a sua versatilidade técnica em Python, que é uma exigência muito forte em vagas de SDET.
+
 ---
 
 ## Conecte-se
